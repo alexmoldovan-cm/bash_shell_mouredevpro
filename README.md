@@ -1,5 +1,8 @@
 # Hello Bash/Shell
-![Certificado del curso de Bash](images/shell_bash.png)
+> ### Certificado Finalización Curso
+
+![](./Images/shell_bash.png)
+
 
 
 
