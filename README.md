@@ -1,5 +1,5 @@
 # Hello Bash/Shell
-<img src="images/shell_bash.png" alt="Certificado del curso de Bash" width="600">
+![Certificado del curso de Bash](imagenes/certificado.png)
 
 
 
